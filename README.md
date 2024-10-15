@@ -6,27 +6,27 @@ Channel 669 Weather is a React Native weather application that fetches and displ
 **Default Cities:** 
 The app displays weather information for five cities (Ann Arbor, Atlanta, Shanghai, Dubai, New York) by default.
 
-**Search Functionality: **
+**Search Functionality:**
 Users can search for and add additional cities to the weather list.
 
-**Weather Information: **
+**Weather Information:**
 For each city, the app shows the temperature and weather condition (e.g., cloudy, sunny).
 
-**Weather Icons: **
+**Weather Icons:**
 The app uses Ionicons to display weather-related icons based on the weather condition.
 
-**Refresh Button: **
+**Refresh Button:**
 Users can refresh weather data for all added cities to get the latest information.
 Dependencies
 
 ## The app relies on the following key dependencies:
-**React Native: **
+**React Native:**
 A popular framework for building mobile apps using React.
 
-**react-native-vector-icons: **
+**react-native-vector-icons:**
 Used to display weather icons based on the condition (e.g., sun, cloud, rain).
 
-**OpenWeatherMap API: **
+**OpenWeatherMap API:**
 For fetching real-time weather data.(https://openweathermap.org/current) 
 
 ## Prerequisites
